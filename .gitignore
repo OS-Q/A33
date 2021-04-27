@@ -16,9 +16,39 @@ examples/**/*.md
 .piopm
 documents
 TODO
+# *.ico
+INSTALL*
+AUTH*
+*kl26*
+*k66*
+*k20*
+*d51*
+*d21*
+*nrf5*
+*stm32*
+*esp32*
 # Prerequisites
 *.d
-
+MANIFEST
+COPYING*
+teensy3/
+teensy/
+examples/
+*TEENSY_3*
+*USBHost_t3*
+test
+*.bmp
+docs/
+doc/
+*.html
+*.zip
+*.xml
+*.gif
+*.pde
+*.pdf
+*.wav
+version*
+*.url
 # Compiled Object files
 *.slo
 *.lo
